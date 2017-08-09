@@ -1,5 +1,7 @@
 # cri_empathy_machine_resperation
 ----------------------------------Objective-------------------------------------
+
+
 Our project, impulsed by Curt White from Child Mind, lays at the crossroads between art, science 
 and technology and aims at creating the conditions for literally stepping into strangers’bodies at
 a physiological level - and hypothetically generating a sense of empathy. 
@@ -16,6 +18,8 @@ address the relation between identity and empathy.
 
 
 ----------------------------------Component-------------------------------------
+
+
 QUANTITY	 	COMPONENT NAME
 2	×	PAM8403
 Audio ICs / Audio Amplifiers
@@ -32,6 +36,8 @@ Audio ICs / Audio Amplifiers
 
 
 ----------------------------------How to make-------------------------------------
+
+
 Project 1 - HeartBeat Sensing
 Step1 - Setup Arduino and Pam8403 on the breadboard
 
