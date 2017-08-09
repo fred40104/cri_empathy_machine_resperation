@@ -21,17 +21,29 @@ address the relation between identity and empathy.
 
 
 QUANTITY	 	COMPONENT NAME
+
 2	×	PAM8403
+
 Audio ICs / Audio Amplifiers
+
 2	×	Stethoscope
+
 4	×	bone transducers
+
 2	×	MAX9814
+
 Audio ICs / Audio Amplifiers
+
 2	×	Arduino nano
+
 2	×	Servo
+
 4	×	Accelerometers
+
 20	×	Wires
+
 2	×	boards
+
 (or breadboards)
 
 
@@ -39,6 +51,7 @@ Audio ICs / Audio Amplifiers
 
 
 Project 1 - HeartBeat Sensing
+
 Step1 - Setup Arduino and Pam8403 on the breadboard
 
 Step2 - Install stethoscope into the microphone 
@@ -50,6 +63,7 @@ Step4 - Using the transmitter and receiver to work remotely
 Step5 - Install HeartBeat Sensing Device into the wearable textile prototype
 
 Project 2 - Breath Synchronizing Device
+
 Step1 -  Install two accelerator sensor with Arduino
 
 Step2 - Install motion motor with Arduino
