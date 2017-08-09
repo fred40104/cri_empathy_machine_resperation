@@ -22,17 +22,13 @@ address the relation between identity and empathy.
 
 QUANTITY	 	COMPONENT NAME
 
-2	×	PAM8403
-
-Audio ICs / Audio Amplifiers
+2	×	PAM8403  Audio ICs / Audio Amplifiers
 
 2	×	Stethoscope
 
 4	×	bone transducers
 
-2	×	MAX9814
-
-Audio ICs / Audio Amplifiers
+2	×	MAX9814 Audio ICs / Audio Amplifiers
 
 2	×	Arduino nano
 
@@ -42,9 +38,7 @@ Audio ICs / Audio Amplifiers
 
 20	×	Wires
 
-2	×	boards
-
-(or breadboards)
+2	×	boards(or breadboards)
 
 
 ----------------------------------How to make-------------------------------------
